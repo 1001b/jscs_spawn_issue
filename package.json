@@ -1,0 +1,21 @@
+{
+  "name": "jscs_spawn_issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.3.13",
+    "babel-preset-es2015": "^6.3.13",
+    "jscs": "^2.7.0"
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  }
+}
